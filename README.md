@@ -1,1 +1,1 @@
-# Reddit-FInancial-Data-Analysis
+# Reddit-Financial-Data-Analysis
