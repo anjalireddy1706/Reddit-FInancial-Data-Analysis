@@ -35,5 +35,5 @@ The project follows a rigorous data science pipeline:
 ### Documentation
 * **Reddit Data Analysis Final Report.pdf**: The comprehensive academic/technical report detailing the background, literature review, methodology, and final conclusions.
 
-### Code & Implementation
+### Code
 * **Reddit_Data_Analysis_Code.ipynb**: A documented Jupyter Notebook containing the Python code used for data cleaning, analysis, and visualization.
