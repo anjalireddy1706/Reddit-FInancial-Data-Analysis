@@ -3,7 +3,6 @@
 This repository contains the full implementation and final report for a data analysis project focused on **Reddit**. The project explores user engagement patterns, subreddit trends, and the factors that drive content popularity across the platform.
 
 
-
 ## Project Overview
 
 The core objective of this research is to move beyond simple surface-level metrics to understand the underlying dynamics of social media interaction. By analyzing large-scale datasets from Reddit, this project identifies how timing, content type, and subreddit-specific cultures influence the "success" of a post.
