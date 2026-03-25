@@ -7,7 +7,7 @@ This repository contains the full implementation and final report for a data ana
 
 The core objective of this research is to move beyond simple surface-level metrics to understand the underlying dynamics of social media interaction. By analyzing large-scale datasets from Reddit, this project identifies how timing, content type, and subreddit-specific cultures influence the "success" of a post.
 
-### Key Features
+## Key Features
 * **Exploratory Data Analysis (EDA):** Deep dive into post scores, comment counts, and subreddit distributions.
 * **Temporal Analysis:** Analysis of how the day of the week and hour of the day affect engagement rates.
 * **Sentiment & Content Trends:** Identification of high-growth subreddits and the prevailing sentiment in top-performing threads.
