@@ -4,7 +4,7 @@ This repository contains the full implementation and final report for a data ana
 
 
 
-## ## Project Overview
+## Project Overview
 
 The core objective of this research is to move beyond simple surface-level metrics to understand the underlying dynamics of social media interaction. By analyzing large-scale datasets from Reddit, this project identifies how timing, content type, and subreddit-specific cultures influence the "success" of a post.
 
@@ -16,7 +16,7 @@ The core objective of this research is to move beyond simple surface-level metri
 
 
 
-## ## Methodology
+## Methodology
 
 The project follows a rigorous data science pipeline:
 
@@ -27,7 +27,7 @@ The project follows a rigorous data science pipeline:
 
 
 
-## ## Key Findings
+## Key Findings
 
 * **Peak Engagement Windows:** Identified specific timeframes where post visibility and comment activity are statistically higher.
 * **Engagement Skew:** Analysis confirms that a small percentage of "viral" posts account for the majority of platform-wide engagement.
@@ -35,10 +35,10 @@ The project follows a rigorous data science pipeline:
 
 
 
-## ## Repository Structure
+##  Repository Structure
 
-### ### Documentation
+### Documentation
 * **Reddit Data Analysis Final Report.pdf**: The comprehensive academic/technical report detailing the background, literature review, methodology, and final conclusions.
 
-### ### Code & Implementation
+### Code & Implementation
 * **Reddit_Data_Analysis_Code.ipynb**: A documented Jupyter Notebook containing the Python code used for data cleaning, analysis, and visualization.
