@@ -17,7 +17,7 @@ The core objective of this research is to move beyond simple surface-level metri
 
 The project follows a rigorous data science pipeline:
 
-1.  **Data Extraction:** Utilizing the Reddit API (PRAW) or historical archives to gather post and comment data.
+1.  **Data Extraction:** Utilizing historical archives to gather post and comment data.
 2.  **Preprocessing:** Cleaning text data, handling missing values, and normalizing engagement metrics.
 3.  **Statistical Analysis:** Applying correlation tests and distribution analysis to validate trends.
 4.  **Visualization:** Using libraries like Matplotlib and Seaborn to communicate complex data patterns through intuitive charts.
